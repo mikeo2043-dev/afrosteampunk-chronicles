@@ -29,6 +29,8 @@ document.querySelector('#characters').innerHTML = characters.map(([id, name, rol
   ? 'images/guardian-queen.png'
 : id === '008'
 ? 'images/mechanic.png'
+: id === '009'
+? 'images/navigator.png'
 : '';
   return `<article class="character">
     <span class="number">ASC-${id}</span>
