@@ -21,6 +21,8 @@ document.querySelector('#characters').innerHTML = characters.map(([id, name, rol
   ? 'images/inventor.png'
   : id === '004'
   ? 'images/botanist.png'
+    : id === '006'
+? 'images/signalist.png'
   : id === '007'
   ? 'images/guardian-queen.png'
   : '';
