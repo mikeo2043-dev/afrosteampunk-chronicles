@@ -13,12 +13,13 @@ const characters = [
 ];
 
 document.querySelector('#characters').innerHTML = characters.map(([id, name, role]) => {
-  const portrait = id === '002'
-    ? 'images/aviatrix.png'
-    : id === '007'
-    ? 'images/guardian-queen.png'
-    : '';
-
+  const portrait = id === '001'
+  ? 'images/explorer.png'
+  : id === '002'
+  ? 'images/aviatrix.png'
+  : id === '007'
+  ? 'images/guardian-queen.png'
+  : '';
   return `<article class="character">
     <span class="number">ASC-${id}</span>
     <h3>${name}</h3>
