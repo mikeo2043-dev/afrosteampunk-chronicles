@@ -20,7 +20,6 @@ document.querySelector('#characters').innerHTML = characters.map(([id, name, rol
   : id === '003'
   ? 'images/inventor.png'
   : id === '004'
-: id === '004'
 ? 'images/botanist.png'
 : id === '005'
 ? 'images/engineer.png'
