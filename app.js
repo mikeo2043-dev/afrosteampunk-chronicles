@@ -30,4 +30,24 @@ document.querySelector('#characters').innerHTML = characters.map(([id, name, rol
     ${portrait ? `<img src="${portrait}" alt="${name}" style="width:100%;height:220px;object-fit:cover;border-radius:10px;margin:12px 0;">` : ''}
     <p>${role}</p>
   </article>`;
-}).join('');
+}).join(''); 
+const walletButton = document.getElementById('connect-wallet');
+
+if (walletButton) {
+  walletButton.addEventListener('click', async () => {
+    if (!window.phantom?.solana?.isPhantom) {
+      alert('Open this website in the Phantom app browser to connect your wallet.');
+      return;
+    }
+
+    try {
+      const response = await window.phantom.solana.connect();
+      const address = response.publicKey.toString();
+
+      walletButton.textContent =
+        address.slice(0, 4) + '...' + address.slice(-4);
+    } catch (error) {
+      alert('Wallet connection was cancelled or failed.');
+    }
+  });
+}
