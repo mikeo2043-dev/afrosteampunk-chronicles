@@ -1,0 +1,46 @@
+
+{
+  "name": "ASC-007: The Guardian",
+  "symbol": "ASC",
+  "description": "The Shield of Umoja. A fearless protector and strategic defender sworn to protect the people of the Empire. When the Sunforge fails and chaos spreads, the Guardian stands between Umoja and the forces threatening its survival.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/guardian-queen.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-007"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Guardian"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Shield of Umoja"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Protector and Strategic Defender"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/guardian-queen.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
