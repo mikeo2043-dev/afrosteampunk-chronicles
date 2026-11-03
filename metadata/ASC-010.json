@@ -1,0 +1,46 @@
+
+{
+  "name": "ASC-010: The Scholar",
+  "symbol": "ASC",
+  "description": "The Keeper of Ancient Knowledge. A determined historian and researcher who studies manuscripts, forgotten inventions and ancestral science to uncover the knowledge needed to understand and restore the Sunforge.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/scholar.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-010"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Scholar"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Keeper of Ancient Knowledge"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Historian and Researcher"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/scholar.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
