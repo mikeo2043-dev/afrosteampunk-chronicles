@@ -1,0 +1,45 @@
+{
+  "name": "ASC-001: The Explorer",
+  "symbol": "ASC",
+  "description": "The First Pathfinder of Umoja. A courageous explorer who searches forgotten territories, ancient ruins and lost routes. His discoveries reveal the first clues to the Lost Sunforge.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/explorer.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-001"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Explorer"
+    },
+    {
+      "trait_type": "Title",
+      "value": "First Pathfinder of Umoja"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Pathfinder"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/explorer.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
