@@ -1,0 +1,45 @@
+ {
+  "name": "ASC-004: The Botanist",
+  "symbol": "ASC",
+  "description": "The Keeper of Living Knowledge. A researcher of rare plants and natural systems who discovers that living energy networks beneath Umoja may hold a key to restoring the Sunforge.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/botanist.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-004"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Botanist"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Keeper of Living Knowledge"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Botanical Scientist"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/botanist.png",
+        "type": "image/png"
+      }
+    ]
+  }
+ }
