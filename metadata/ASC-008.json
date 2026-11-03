@@ -1,0 +1,46 @@
+
+{
+  "name": "ASC-008: The Mechanic",
+  "symbol": "ASC",
+  "description": "The Restorer of Machines. A resourceful mechanical specialist who can repair even the most complex clockwork systems. As Umoja's technology collapses after the Sunforge failure, the Mechanic works tirelessly to bring the Empire's machines back to life.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/mechanic.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-008"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Mechanic"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Restorer of Machines"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Mechanical Specialist"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/mechanic.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
