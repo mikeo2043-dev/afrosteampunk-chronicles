@@ -3,7 +3,7 @@
   "name": "ASC-006: The Signalist",
   "symbol": "ASC",
   "description": "The Voice of the Empire. A skilled communications specialist who detects a mysterious transmission hidden within the silence that follows the collapse of Umoja's communication networks. The signal may hold the key to restoring the Sunforge.",
-  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/signalist.png",
+"image": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/signalist%20(1).png",
   "attributes": [
     {
       "trait_type": "Character ID",
@@ -38,7 +38,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/signalist.png",
+"uri": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/signalist%20(1).png",
         "type": "image/png"
       }
     ]
