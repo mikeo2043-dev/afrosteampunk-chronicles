@@ -1,0 +1,45 @@
+{
+  "name": "ASC-005: The Engineer",
+  "symbol": "ASC",
+  "description": "The Architect of Umoja. A practical and dependable engineer who designs and rebuilds the bridges, factories, transport systems and infrastructure that keep the empire running.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/engineer.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-005"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Engineer"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Architect of Umoja"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Infrastructure Engineer"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/engineer.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
