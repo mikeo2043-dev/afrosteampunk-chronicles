@@ -1,0 +1,45 @@
+{
+  "name": "ASC-002: The Aviatrix",
+  "symbol": "ASC",
+  "description": "The Sky Commander of Umoja. A fearless pilot who masters dangerous aerial routes and leads expeditions through the skies when the Sunforge fails and the empire's airship routes become unreliable.",
+  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/aviatrix.png",
+  "attributes": [
+    {
+      "trait_type": "Character ID",
+      "value": "ASC-002"
+    },
+    {
+      "trait_type": "Character",
+      "value": "The Aviatrix"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Sky Commander of Umoja"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Aerial Pilot"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Empire",
+      "value": "Umoja"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/aviatrix.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
