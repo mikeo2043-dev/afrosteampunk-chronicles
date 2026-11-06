@@ -2,7 +2,7 @@
   "name": "ASC-003: The Inventor",
   "symbol": "ASC",
   "description": "The Master of Forgotten Machines. A brilliant inventor who investigates the mysterious failure of the Sunforge Engine and uncovers the lost science needed to restore Umoja.",
-  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/inventor.png",
+  "image": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/inventor.png",
   "attributes": [
     {
       "trait_type": "Character ID",
@@ -37,7 +37,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/inventor.png",
+        "uri": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/inventor.png",
         "type": "image/png"
       }
     ]
