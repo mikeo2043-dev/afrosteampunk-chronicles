@@ -3,7 +3,7 @@
   "name": "ASC-009: The Navigator",
   "symbol": "ASC",
   "description": "The Master of Celestial Routes. A gifted navigator who reads the stars, maps unknown skies and guides Umoja's airships through dangerous territories. When the Sunforge fails, the Navigator searches the heavens for a route to the lost source of power.",
-  "image": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/navigator.png",
+  "image": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/navigator.png",
   "attributes": [
     {
       "trait_type": "Character ID",
@@ -38,7 +38,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://mikeo2043-dev.github.io/afrosteampunk-chronicles/images/navigator.png",
+        "uri": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/navigator.png",
         "type": "image/png"
       }
     ]
