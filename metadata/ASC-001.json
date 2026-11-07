@@ -2,9 +2,10 @@
   "name": "ASC-001: The Explorer",
   "symbol": "ASC",
   "description": "The First Pathfinder of Umoja. A courageous explorer who searches forgotten territories, ancient ruins and lost routes. His discoveries reveal the first clues to the Lost Sunforge.",
-  "image": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/explorer.png",
+"image": "ipfs://bafybeif3om622cblh3qf6ovaq57gztwlc6a4hj65mvukcql5eidgkbvq34/explorer.png",
+"attributes": [
     {
-      "trait_type": "Character ID",
+        "trait_type": "Character ID",
       "value": "ASC-001"
     },
     {
